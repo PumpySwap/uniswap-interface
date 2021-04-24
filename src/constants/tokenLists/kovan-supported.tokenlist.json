@@ -1,0 +1,25 @@
+{
+  "name": "(KOVAN) PumpySwap Token List",
+  "version": {
+      "major": 0,
+      "minor": 1,
+      "patch": 0
+  },
+  "keywords": [
+      "pumpy",
+      "tokens",
+      "trusted"
+  ],
+  "logoURI": "tps://raw.githubusercontent.com/PumpySwap/uniswap-interface/main/public/images/pumpy_logo.png",
+  "timestamp": "2021-04-20T16:20:00+0000",
+  "tokens": [
+      {
+          "name": "Pumpy",
+          "chainId": 42,
+          "symbol": "PUMPY",
+          "decimals": 18,
+          "address": "0xa45732d9DEAe61339ff50BF6d85B6578C9900cDD",
+          "logoURI": "https://raw.githubusercontent.com/PumpySwap/uniswap-interface/main/public/images/pumpy_logo.png"
+      }
+    ]
+}
