@@ -1,0 +1,41 @@
+{
+  "name": "PapiSwap Token List",
+  "version": {
+      "major": 0,
+      "minor": 1,
+      "patch": 0
+  },
+  "keywords": [
+      "PAPI",
+      "tokens",
+      "trusted"
+  ],
+  "logoURI": "https://gemini.com/static/images/loader.png",
+  "timestamp": "2021-04-20T16:20:00+0000",
+  "tokens": [
+     {
+      "chainId": 42,
+      "address": "0x0b159398492ee85885f4d38941b70a819944cf5f",
+      "name": "Papillon",
+      "symbol": "PAPI",
+      "decimals": 9,
+      "logoURI": "https://papiswap.com/images/light/papillon_coin.png"
+    },
+    {
+      "chainId": 42,
+      "address": "0xf2d4ecc5be115d56f6e5a460599f317e616bfff6",
+      "name": "Shiba Inu",
+      "symbol": "SHIB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE/logo.png"
+    },
+    {
+      "chainId": 42,
+      "address": "0xdC1c9751fC3eD2257B3A2015f9eD998C0A7c9728",
+      "name": "Kishu Inu",
+      "symbol": "KISHU",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/14890/thumb/photo_2021-04-19_07-25-38.jpg?"
+    }
+    ]
+}
