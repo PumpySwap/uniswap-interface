@@ -333,7 +333,10 @@ export default function Header() {
           <StyledNavLink id={`swap-nav-link`} to={'/swap'}>
             {t('PapiSwap')}
           </StyledNavLink>
-          <StyledExternalLink id={`stake-nav-link`} href={'https://www.dextools.io/app/uniswap/pair-explorer/0x1acba73121d5f63d8ea40bdc64edb594bd88ed09'}>
+          <StyledExternalLink
+            id={`stake-nav-link`}
+            href={'https://www.dextools.io/app/uniswap/pair-explorer/0x1acba73121d5f63d8ea40bdc64edb594bd88ed09'}
+          >
             Chart <span style={{ fontSize: '11px' }}>↗</span>
           </StyledExternalLink>
         </HeaderLinks>
